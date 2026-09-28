@@ -1,0 +1,13 @@
+# Dados brutos baixados localmente para testes (não vão para o GitHub; o enunciado dispensa os dados)
+dados_raw/
+
+# Python / editores
+__pycache__/
+.venv/
+.vscode/
+
+# Credenciais e configurações locais do Databricks CLI (nunca versionar)
+.databricks/
+.databrickscfg
+.env
+*.env
